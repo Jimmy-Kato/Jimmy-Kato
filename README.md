@@ -4,7 +4,7 @@
 - 💞️ Also I love meditation.
 - 📫 How to reach me >> https://twitter.com/CCFup2now
 - 📳 My cv website version 1 >> https://jimmy-kato.github.io/cv/
-- 📳 My cv website version 2 >> https://jimmy-kato.github.io/cv/
+- 📳 My cv website version 2 >> https://jimmy-kato.github.io/cv2/
 
 <!---
 Jimmy-Kato/Jimmy-Kato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
